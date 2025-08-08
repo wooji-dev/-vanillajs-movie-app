@@ -52,5 +52,16 @@ Thumbs.db
 *.tmp
 *.temp
 
-# MCP specific
-claude_desktop_config.json
+
+# Parcel specific
+.parcel-cache/
+.cache/
+.parcel-cache/
+
+# API Keys (보안)
+api-keys.js
+config.js
+secrets.js
+
+# Local development
+.local/
