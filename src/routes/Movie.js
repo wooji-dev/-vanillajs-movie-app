@@ -23,7 +23,7 @@ export default class Movie extends Component {
             <div class="title">
                 ${movie.Title}
             </div>
-            <div class="labels">
+            <div class="labels"> 
                 <span>${movie.Released}</span>
                 &nbsp;/&nbsp;
                 <span>${movie.Runtime}</span>
