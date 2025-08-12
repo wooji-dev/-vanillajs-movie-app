@@ -1,6 +1,6 @@
 import { Component } from "../core/heropy.js";
 import Headline from "../components/Headline.js";
-import Search from "../components/search.js";
+import Search from "../components/Search.js";
 import MovieList from "../components/MovieList.js";
 import MovieListMore from "../components/MovieListMore.js";
 
