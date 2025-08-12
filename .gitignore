@@ -54,6 +54,7 @@ Thumbs.db
 
 
 # Parcel specific
+.parcel-cache
 .parcel-cache/
 .cache/
 .parcel-cache/
